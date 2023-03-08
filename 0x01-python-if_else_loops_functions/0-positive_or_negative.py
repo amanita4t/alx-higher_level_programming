@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# This code will define the randomly generated code is weather negetive, zero or positive
+#find out positive or not
 import random
 number = random.randint(-10, 10)
 if number < 0:
