@@ -1,1 +1,1 @@
-# negetive or positive
+# Solution to tasks on conditionals & loops
