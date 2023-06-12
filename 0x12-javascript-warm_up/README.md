@@ -1,1 +1,1 @@
-All solutions for javascript warmup
+# Solution to tasks on JavaScript - Warm up
